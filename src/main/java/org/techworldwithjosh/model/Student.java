@@ -1,5 +1,6 @@
 package org.techworldwithjosh.model;
 
+
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Data;
