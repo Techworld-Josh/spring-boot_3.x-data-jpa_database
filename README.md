@@ -3,7 +3,7 @@ PostgresSQL query
 select * from student;
 
 INSERT INTO student (first_name, last_name, email, age, marks, attendance, promotion_status)
-VALUES ('John', 'Doe', 'john.doe@example.com', 20, 50, 57, false);
+VALUES ('John', 'Doe', 'josh.go@hotmail.com', 20, 50, 57, false);
 
 
 INSERT INTO student (first_name, last_name, email, age, marks, attendance, promotion_status)
